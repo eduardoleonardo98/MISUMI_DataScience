@@ -65,8 +65,8 @@ El flujo de trabajo del notebook `Git_LocatingPins_EALI.ipynb` se organiza en la
 ## 🧠 Autor
 
 **Eduardo Antonio Leonardo Infante**  
-Ingeniero de Soporte Técnico – MISUMI México  
-📧 Contacto profesional: [correo opcional o LinkedIn]
+AI Innovation Engineer – MISUMI México  
+📧 Contacto profesional: https://www.linkedin.com/in/eduardo-l-0984a1140/
 
 ---
 
