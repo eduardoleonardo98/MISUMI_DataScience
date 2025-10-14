@@ -75,10 +75,3 @@ AI Innovation Engineer – MISUMI México
 - `Git_LocatingPins_EALI.ipynb` → Notebook principal con todo el flujo analítico: carga, procesamiento, enriquecimiento y visualización.
 
 ---
-
-## 🪄 Cómo ejecutar
-
-1. Clonar este repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/Git_LocatingPins.git
-   cd Git_LocatingPins
